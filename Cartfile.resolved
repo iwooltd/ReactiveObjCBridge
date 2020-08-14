@@ -1,5 +1,5 @@
-github "iwooltd/Nimble" "v8.0.6"
-github "iwooltd/Quick" "v2.0.1"
+github "iwooltd/Nimble" "v8.0.10"
+github "iwooltd/Quick" "v2.0.2"
 github "iwooltd/ReactiveObjC" "3.1.2"
-github "iwooltd/ReactiveSwift" "6.2.1"
+github "iwooltd/ReactiveSwift" "6.3.1"
 github "iwooltd/xcconfigs" "d0f8992afad45262cfe3a3cf512e7127fdcf296c"
